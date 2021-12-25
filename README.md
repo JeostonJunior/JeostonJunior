@@ -1,8 +1,8 @@
 ## Olá Eu sou Jeoston Araújo
 
 - 📚 Estudando Sistemas de Informação;
-- ❤️ Me aventurando em alguns projetos front-end;
-- 🧗‍♂️ Buscando evolução!
+- ❤️ front-end;
+- 🧗‍♂️ Em Busca de aprendizado, melhorando a cada dia!
 
 ##
 
