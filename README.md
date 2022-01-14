@@ -1,13 +1,14 @@
-## Olá! Eu sou Jeoston Araújo
+## Seja Bem Vindo ao meu GitHub!
 
-- 📚 Estudando Sistemas de Informação;
+- ⏳ "Façamos da interrupção um caminho novo.Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
+
+- 📚 Atualmente estou estudando JavaScript;
 - ❤️ front-end;
-- 🧗‍♂️ Em Busca de aprendizado, melhorando a cada dia!
-## Tecnologias que mais uso
+- 🧗‍♂️ Buscando ser melhor a cada dia!
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=dracula&count_private=true"/> 
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=great-gatsby&count_private=true"/> 
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=7&theme=great-gatsby"/> 
 </div>
   
 <div style="display: inline_block"><br>
