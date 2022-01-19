@@ -8,7 +8,7 @@
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=great-gatsby&count_private=true"/> 
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=7&theme=great-gatsby"/> 
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=6&theme=great-gatsby"/> 
 </div>
   
 <div style="display: inline_block"><br>
