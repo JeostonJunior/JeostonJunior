@@ -3,7 +3,7 @@
 - ⏳ "Façamos da interrupção um caminho novo.Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
 
 - 📚 Atualmente estou estudando C.Sharp(C#);
-- ❤️ front-end;
+- ❤️ back-end;
 - 🧗‍♂️ Buscando ser melhor a cada dia!
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
@@ -12,13 +12,18 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+           
+                 
+           
+          
+          
   ##
  
 <div style="display: inline_block"> 
