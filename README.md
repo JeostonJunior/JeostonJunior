@@ -2,7 +2,7 @@
 
 - ⏳ "Façamos da interrupção um caminho novo.Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
 
-- 📚 Atualmente estou estudando JavaScript;
+- 📚 Atualmente estou estudando C.Sharp(C#);
 - ❤️ front-end;
 - 🧗‍♂️ Buscando ser melhor a cada dia!
 <div align='center'>
