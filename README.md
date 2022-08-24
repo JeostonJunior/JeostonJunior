@@ -3,7 +3,8 @@
 - ⏳ "Façamos da interrupção um caminho novo. Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
 
 - C#
-- .NET;
+- .NET
+- JavaScript
 
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
