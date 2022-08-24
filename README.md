@@ -1,10 +1,10 @@
 ## Seja Bem Vindo(a) ao meu GitHub!
 
-- ⏳ "Façamos da interrupção um caminho novo.Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
+- ⏳ "Façamos da interrupção um caminho novo. Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
 
-- 📚 Atualmente estou estudando C.Sharp(C#);
-- ❤️ back-end;
-- 🧗‍♂️ Buscando ser melhor a cada dia!
+- C#
+- .NET;
+
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=great-gatsby&count_private=true"/> 
