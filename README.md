@@ -2,8 +2,7 @@
 
 - ⏳ "Façamos da interrupção um caminho novo. Da queda um passo de dança, do medo uma escada, do sonho uma ponte, da procura um encontro!" - Fernando Sabino
 
-- C#
-- .NET
+- C#(.NET)
 - JavaScript
 
 <div align='center'>
