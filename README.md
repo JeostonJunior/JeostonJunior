@@ -1,14 +1,15 @@
-## Salve meus queridos, Sejam muito bem vindos ao meu Github!
+## Salve meus queridos, Sejam muito bem vindos ao meu GitHub!
 
 - Atualmente trabalho com desenvolvimento de ChatBots, utilizando as linguagens .Net e javaScript.
 - C#(.NET)
 - JavaScript
 
+<h4>🛠️ GitHub Stats:</h4>
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=dracula&count_private=true"/> 
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=5&theme=dracula&hide=jupyter,python"/> 
-</div><br>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=tokyonight&count_private=true"/> 
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=5&theme=tokyonight&hide=jupyter,python"/> 
+</div>
 
 <h4>Linguagens e Ferramentas:</h4>  
 <p align="left">
