@@ -1,6 +1,6 @@
 ## Salve meus queridos, Sejam muito bem vindos ao meu GitHub!
 
-- Atualmente trabalho com desenvolvimento de ChatBots, utilizando as linguagens .Net e javaScript.
+- Atualmente trabalho com desenvolvimento de ChatBots, utilizando as linguagens .Net e JavaScript.
 - C#(.NET)
 - JavaScript
 
