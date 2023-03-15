@@ -1,7 +1,8 @@
-## Salve meus queridos, Sejam muito bem vindos ao meu GitHub!
+## Local onde começo tudo e não termino nada!
 
-- Atualmente trabalho com desenvolvimento de ChatBots, utilizando as linguagens .Net e JavaScript.
-- C#(.NET)
+- Chatbot developer at Take Blip
+- .NET 6
+- ASP.NET Core
 - JavaScript
 
 <h4>🛠️ GitHub Stats:</h4>
