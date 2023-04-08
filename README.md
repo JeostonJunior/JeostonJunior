@@ -9,7 +9,7 @@
 <div align='center'>
   <a href='https://github.com/JeostonJunior'>
   <img height='180em' src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=tokyonight&count_private=true"/> 
-  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=5&theme=tokyonight&hide=jupyter,python"/> 
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&langs_count=5&theme=tokyonight&hide=jupyter,python,c"/> 
 </div>
 
 <h4>Linguagens e Ferramentas:</h4>  
