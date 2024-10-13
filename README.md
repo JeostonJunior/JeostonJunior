@@ -1,9 +1,13 @@
 ## Local onde começo tudo e não termino nada!
 
-- Chatbot developer at Take Blip
+- Chatbot developer at Sinch
 - .NET 6
 - ASP.NET Core
 - JavaScript
+- TypeScript
+- Angular 2+
+- AWS
+- Azure
 
 <h4>🛠️ GitHub Stats:</h4>
 <div align='center'>
