@@ -1,11 +1,11 @@
 ## JEO DA BAHIA
 
 - Chatbot developer at Sinch
-- .NET 6
+- .NET 6 - 8
 - ASP.NET Core
 - JavaScript
 - TypeScript
-- Angular 2+
+- Angular 2 - 16
 - AWS
 - Azure
 
