@@ -11,10 +11,9 @@
 - Azure
 
 <h4>🛠️ GitHub Stats:</h4>
-<div align='center'>
- <a href="https://github.com/JeostonJunior/github-readme-stats"><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true" alt="Jeo's github stats" />
- <a href="https://github.com/JeostonJunior/github-readme-stats"><img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&theme=tokyonight&langs_count=6" />
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=radical)](https://github.com/JeostonJunior/github-readme-stats)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&size_weight=0.5&count_weight=0.5&theme=radical)
 
 <h4>Linguagens e Ferramentas:</h4>  
 <p align="left">
@@ -26,11 +25,10 @@
   <img align="center" height="40" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" height="40" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>             
   <img align="center" height="40" width="40" title="SQLServer|MSSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" height="40" width="40" title="BOOTSTRAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-     
-          
+  <img align="center" height="40" width="40" title="BOOTSTRAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />          
 </p>
+
 <h4>Contatos:</h4>
 <a href="https://www.instagram.com/araujo_crz.jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jeostonjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jeoston-araujo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                 
+<a href="https://www.linkedin.com/in/jeoston-araujo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
