@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! Eu sou o Jeo</h1>
-<h3 align="center">Desenvolvedor de Chatbots | Full Stack | Apaixonado por tecnologia/h3>
+<h3 align="center">Desenvolvedor de Chatbots | Full Stack | Apaixonado por tecnologia </h3>
 
 ---
 
