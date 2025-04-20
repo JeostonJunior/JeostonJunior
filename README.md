@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JeostonJunior.JeostonJunior" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jeoaraujx.jeoaraujx" />
 
 <h1 align="center">👋 Olá! Eu sou o Jeo</h1>
 <h3 align="center">Desenvolvedor de Chatbots | Full Stack | Apaixonado por tecnologia </h3>
@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeostonJunior&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeostonJunior&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeoaraujx&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeoaraujx&layout=compact&theme=radical"/>
 </div>
 
 ---
